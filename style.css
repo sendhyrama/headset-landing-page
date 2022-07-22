@@ -13,7 +13,6 @@ body {
     align-items: center;
     justify-content: space-around;
     background-color: white;
-    margin-top: 300px;
 }
 
 ul {
@@ -100,4 +99,19 @@ hr {
     margin: 10px 0px 10px 0px;  
     border-radius: 3px;
     padding: 5px 10px 5px 10px;
+}
+
+/* ========== Footer section ========== */
+.footer {
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+.footer-text {
+    text-align: center;
+}
+
+.footer-text a {
+    text-align: center;
+    color: var(--color-primary);
 }
