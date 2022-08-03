@@ -1,2 +1,2 @@
-# headset-landing-page
-Create landing page website for headset
+## headset-landing-page
+Create landing page website for headset product
